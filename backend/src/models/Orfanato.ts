@@ -31,7 +31,7 @@ export default class Orfanato {
   aberto_entre: string;
 
   @Column()
-  aberto_nos_finais_de_semana: string;
+  aberto_nos_finais_de_semana: boolean;
 
   @OneToMany(() => Imagem, (imagem) => imagem.orfanato, {
     cascade: ["insert", "update"],

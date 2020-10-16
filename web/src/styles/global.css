@@ -8,6 +8,12 @@
 --cor-botao-azul-hover: #17d6eb;
 --cor-botao-amarelo-hover: #96feff;
 --cor-fundo-azul: linear-gradient(329.54deg, #29b6d1 0%, #00c7c7 100%);
+--cor-fundo-popup: rgba(255, 255, 255, 0.8);
+--cor-popup: #0089a5;
+--cor-verde: #39CC83;
+--cor-vermelho: #FF669D;
+--cor-azul-clarinho: #15B6D6;
+--cor-form: #D3E2E5;
 }
 
 * {

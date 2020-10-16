@@ -71,7 +71,7 @@ export default {
       sobre,
       instruções,
       aberto_entre,
-      aberto_nos_finais_de_semana,
+      aberto_nos_finais_de_semana: aberto_nos_finais_de_semana === "true",
       Imagens,
     };
 
@@ -87,7 +87,7 @@ export default {
         Yup.object().shape({
           path: Yup.string().required(),
         })
-      ).required("É obrigatório ter ao menos uma imagem"),
+      ).required(),
     });
 
     await schema.validate(data, {
