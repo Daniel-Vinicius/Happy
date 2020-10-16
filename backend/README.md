@@ -1,27 +1,72 @@
 Comandos usados para criar o projeto: {
+
 1- yarn init -y
+
+
 2- yarn add express
+
+
 3- yarn add @types/express -D
+
+
 4- yarn add typescript -D
+
+
 5- yarn tsc --init
+
+
 6- Mudar (tsconfig.json):
+
+
 "target": "es5",
+
+
 para "target": "es2017",  
+
+
  7- yarn add ts-node-dev -D
+ 
+ 
 8- Criar este script no package.json {
+
+
 "scripts": {
+
+
 "dev": "ts-node-dev --transpile-only --ignore-watch node_modules src/server.ts",
+
+
 "typeorm": "ts-node-dev ./node_modules/typeorm/cli.js"
+
+
 },
+
+
 9- Instalar o Typeorm e o sqlite3:
+
+
 yarn add typeorm sqlite3
+
+
 }
 10 - Mudar isto (tsconfig.json) pra false: 
+
+
 "strictPropertyInitialization": false, / * Habilita a verificação estrita da inicialização da propriedade nas classes. * /
+
+
 11- Mudar isso (tsconfig.json) pra true: 
+
+
   "experimentalDecorators": true,        /* Enables experimental support for ES7 decorators. */
+  
+  
     "emitDecoratorMetadata": true,         /* Enables experimental support for emitting type metadata for decorators. */
+    
+    
 12- instalar isso: yarn add express-async-errors e isso  yarn add yup e isso @types/yup
+
+
 13- instalar isso: yarn add @types/cors -D e isso yarn add cors
 
 }
