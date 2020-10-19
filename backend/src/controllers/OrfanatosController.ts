@@ -50,7 +50,7 @@ export default {
       latitude,
       longitude,
       sobre,
-      instruções,
+      instrues,
       aberto_entre,
       aberto_nos_finais_de_semana,
     } = request.body;
@@ -73,7 +73,7 @@ export default {
       latitude,
       longitude,
       sobre,
-      instruções,
+      instruções: instrues,
       aberto_entre,
       aberto_nos_finais_de_semana: aberto_nos_finais_de_semana === "true",
       Imagens,
