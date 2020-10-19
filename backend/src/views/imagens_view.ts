@@ -4,7 +4,7 @@ export default {
   render(imagem: Imagem) {
     return {
       id: imagem.id,
-      url: `http://localhost:3333/uploads/${imagem.path}`,
+      url: `http://192.168.1.109:3333/uploads/${imagem.path}`,
     };
   },
 

@@ -9,3 +9,4 @@ mandar email e acessar
 6- instalar o yarn add @react-navigation/native
 7- instalar expo install react-native-gesture-handler react-native-reanimated react-native-screens react-native-safe-area-context @react-native-community/masked-view
 8- instalar yarn add @react-navigation/stack
+9- instalar o expo-image-picker

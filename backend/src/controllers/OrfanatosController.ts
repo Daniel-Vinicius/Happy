@@ -55,6 +55,10 @@ export default {
       aberto_nos_finais_de_semana,
     } = request.body;
 
+    console.log(request.body)
+
+
+
     const orfanatoRepository = getRepository(Orfanato); // pega o model
 
     const requestImages = request.files as Express.Multer.File[];
@@ -74,6 +78,8 @@ export default {
       aberto_nos_finais_de_semana: aberto_nos_finais_de_semana === "true",
       Imagens,
     };
+
+    console.log(request.files)
 
     const schema = Yup.object().shape({
       nome: Yup.string().required("Campo obrigatório"),

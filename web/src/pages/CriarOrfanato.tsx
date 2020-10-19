@@ -79,7 +79,7 @@ export default function CreateOrphanage() {
     alert("Cadastro realizado com sucesso!");
 
     history.push("/app");
-  }
+    }
 
   return (
     <div id='page-create-orphanage'>
