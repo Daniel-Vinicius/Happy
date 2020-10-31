@@ -1,13 +1,10 @@
-<<<<<<< HEAD
-<h2 align="center">  <img alt="Imagem do Projeto" id="imagem" title="#Projeto" src="https://github.com/Daniel-Vinicius/Happy/blob/main/.github/Imagem.JPG" />  </h2>
+<h2>  <img alt="Imagem do Projeto" id="imagem" title="#Projeto" src="https://github.com/Daniel-Vinicius/Happy/blob/main/.github/Imagem.png" />  </h2>
 <h1> Happy </h1>
  <p id="sobre" align="center">
 👾 A Next Level Week é um evento online gratuito promovido pela Rocketsat, em que durante 5 dias desenvolvemos uma aplicação completa. Na trilha OmniStack, criamos uma aplicação web e mobile em que lares adotivos, podem cadastrar seus endereços e informações para as pessoas visitarem.
 
 ![](https://img.shields.io/badge/license-MIT-green)
-
 ![](https://img.shields.io/badge/languege-Portuguese-yellow)
-
 ![GitHub Repo stars](https://img.shields.io/github/stars/Daniel-Vinicius/Happy?style=social)
 
 ### Features 
@@ -16,10 +13,12 @@
 - [x] Entre em contato pelo Whatsapp 📞
 - [x] Acessar horários e dias de funcionamento 📅
 - [x] Cadastar um Orfanato ➕
+---
 
-<h4 align="center"> 
-	Happy 1.0 concluido 🎂
+<h4> 
+	Happy 1.0 concluido ✔
 </h4>
+---
 
 <!--ts-->
 * [Sobre](#sobre) 
@@ -95,27 +94,11 @@ REACT_APP_MAPBOX_TOKEN=xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 $ yarn start
 ```
 
-> ⚠️ Após executar o Server e o Web, o navegador padrão abrirá uma aba em <http://localhost:3000>. E é lá que você vai testar a aplicação. 😉
+> ⚠️ Após executar o Backend e o Web, o navegador padrão abrirá uma aba em <http://localhost:3000>. E é lá que você vai testar a aplicação. 😉
 ---
 
-### **Testando a Aplicação Web**
-Você está na aplicação e verá uma tela parecida a essa:
-
-
-<img alt="study" src="./github/demo-desk-study.gif">
-
-O banco já vem com um proffy e uma conexão (quando o usuário clica em entrar em contato) cadastrados, sou eu, preencha os dados como na imagem abaixo e veja se o retorno foi como esse:
-
-<img alt="study" src="./github/study.JPG">
-
-Se tudo deu certo até agora, basta testar o cadastro, preencha os dados de uma forma parecida a essa:
-
-<img alt="give-classes" src="./github/demo-desk-give-classes.gif">
-
-Agora faça uma busca passando os filtros de acordo com o usuário que você acabou de cadastrar e veja se o retorno foi como o esperado.
-
 ### **Testando a Aplicação Mobile**
-**Com o server em execução!!!**
+**Com o backend em execução!!!**
 ````
 # Executando o mobile
 $ cd mobile
@@ -125,7 +108,7 @@ $ expo start
 Você verá uma tela parecida a essa, 
 OBS: É recomendado uma conta Expo
 
-<img alt="" src="./github/mobile-connection.JPG">
+<img alt="Conexão" src="https://github.com/Daniel-Vinicius/Proffy/blob/master/github/mobile-connection.JPG">
 
 Configure para ficar com a configuração igual ao da foto
 
@@ -135,76 +118,17 @@ Configure para ficar com a configuração igual ao da foto
     "PRODUCTION MODE": "false",    
 }
 ```
-Neste <a href="https://github.com/Daniel-Vinicius/Proffy/blob/master/mobile/src/services/api.ts" target="_blank">arquivo</a>
-configure para  baseURL estar de acordo com o seu IP.
-
-Por exemplo, o IP do Joãozinho é http://192.168.1.112, e baseURL é http://192.168.1.113, o projeto mobile não se conectará com a API.
-
-Para saber seu ip abra o terminal e digite ipconfig o IP que estiver em:
-
-Endereço IPv4. . . . . . . .  . . . . . . . : 192.168.1.113
-
-é o IP que você deve colocar em baseURL.
 
 No projeto mobile com o servidor em execução,
 execute o comando yarn start ou npm start e escaneie o QR CODE com o <a href="https://play.google.com/store/apps/details?id=host.exp.exponent&hl=pt_BR">App da Expo </a>, e você verá está tela:
 
-<img alt="study" src="./github/demo-mobile-study.gif">
 
 Pronto você executou corretamente.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-=======
-# Happy
-Projeto em desenvolvimento
->>>>>>> 0122d5360880a43ad70fcfccdc9f20e7e6342871
-
 
 ### 👨‍💻 Contribuidores <a id="contribuidores"> </a>
 
 💜 As pessoas que contribuiram para o projeto
 
-<<<<<<< HEAD
-=======
-
->>>>>>> 0122d5360880a43ad70fcfccdc9f20e7e6342871
 <table>
 
 <tr>  
@@ -318,7 +242,5 @@ width="100px;"  alt="Nome do contribuidor"/>
 </td>
 
 </tr>
-
-  
 
 </table>
