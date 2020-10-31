@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <h2 align="center">  <img alt="Imagem do Projeto" id="imagem" title="#Projeto" src="https://github.com/Daniel-Vinicius/Happy/blob/main/.github/Imagem.JPG" />  </h2>
 <h1> Happy </h1>
  <p id="sobre" align="center">
@@ -190,12 +191,20 @@ Pronto você executou corretamente.
 
 
 
+=======
+# Happy
+Projeto em desenvolvimento
+>>>>>>> 0122d5360880a43ad70fcfccdc9f20e7e6342871
 
 
 ### 👨‍💻 Contribuidores <a id="contribuidores"> </a>
 
 💜 As pessoas que contribuiram para o projeto
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> 0122d5360880a43ad70fcfccdc9f20e7e6342871
 <table>
 
 <tr>  
