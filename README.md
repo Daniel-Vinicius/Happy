@@ -112,15 +112,26 @@ $ yarn start
 > ⚠️ Após executar o Backend e o Web, o navegador padrão abrirá uma aba em <http://localhost:3000>. E é lá que você vai testar a aplicação. 😉
 ---
 
-### **Testando a Aplicação Mobile**
+### **Executando a Aplicação Mobile**
 **Com o backend em execução!!!**
+
+No arquivo <a href='https://github.com/Daniel-Vinicius/Happy/blob/main/mobile/src/services/api.ts'>api</a> você verá esta variável
+```
+ baseURL: 'http://192.168.1.109:3333'
+ # substitua 'http://192.168.1.109:3333' pelo IP que fica em exp://SEU-IP:3003
+ ```
+
+ na <a href='https://github.com/Daniel-Vinicius/Proffy/blob/master/github/mobile-connection.JPG'>tela de conexão</a>
+
+Agora depois de configurar seu IP execute
+
 ````
 # Executando o mobile
 $ cd mobile
 $ expo start
 ````
 
-Você verá uma tela parecida a essa, 
+Agora você verá uma tela parecida a essa, 
 OBS: É recomendado uma conta Expo
 
 <img alt="Conexão" src="https://github.com/Daniel-Vinicius/Proffy/blob/master/github/mobile-connection.JPG">
@@ -135,27 +146,48 @@ Configure para ficar com a configuração igual ao da foto
 ```
 
 No projeto mobile com o servidor em execução,
-execute o comando yarn start ou npm start e escaneie o QR CODE com o <a href="https://play.google.com/store/apps/details?id=host.exp.exponent&hl=pt_BR">App da Expo </a>, e você verá está tela:
+execute o comando yarn start e escaneie o QR CODE com o <a href="https://play.google.com/store/apps/details?id=host.exp.exponent&hl=pt_BR">App da Expo </a>, e você verá está tela:
 
 
 Pronto você executou corretamente.
 
 ### 🛠 Tecnologias <a id='tecnologias'></a>
 
-- **Web**
+  <details>
+  <summary>Web</summary>
   - [React](https://reactjs.org/)
   - [Typescript](https://www.typescriptlang.org/)
   - [Leaflet](https://leafletjs.com/)
   - [React Leaflet](https://react-leaflet.js.org/)
   - [Open Street Map](https://www.openstreetmap.org/) ou [Mapbox](https://www.mapbox.com/)
   - [Framer Motion](https://www.framer.com/motion/)
+  </details>
 
-- **Backend**
+  <details>
+  <summary>Backend</summary>
   - [Nodejs](https://nodejs.org/en/)
   - [Express](https://expressjs.com/) 
   - [Typeorm](https://typeorm.io/)
   - [Multer](https://github.com/expressjs/multer)
   - [Yup](https://github.com/jquense/yup)
+  </details>
+  
+  <details>
+  <summary>Mobile</summary>
+-   [React Native](https://reactnative.dev/)
+-   [Expo](https://expo.io/learn)
+-   [@expo/vector-icons](https://docs.expo.io/guides/icons/)
+-   [expo-image-picker](https://docs.expo.io/tutorial/image-picker/#installing-expo-image-picker)
+-   [Styled Components](https://styled-components.com/)
+-   [Typescript](https://www.typescriptlang.org/)
+-   [React Navigation](https://reactnavigation.org/)
+-   [Axios](https://www.npmjs.com/package/axios)
+-   [Expo Google Fonts](https://github.com/expo/google-fonts)
+-   [React-native-maps](https://github.com/expo/react-native-appearance)
+-   [Prettier](https://prettier.io/)
+-   [VS Code](https://code.visualstudio.com/)
+</details>
+
 
 ### 👨‍💻 Contribuidores <a id="contribuidores"> </a>
 
