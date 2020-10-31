@@ -92,7 +92,7 @@ $ cd..
 # Inicie o backend
 $ cd backend
 
-# Para executar o projeto backend é necessário criar o banco de dados com todas as tabelas utilizadas, para isso, use no diretório correspondente:
+# Para executar o projeto backend é necessário criar o banco de dados com todas as tabelas utilizadas, para isso execute o comando:
 
 $ yarn typeorm migration:run
 $ yarn dev
