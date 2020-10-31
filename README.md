@@ -7,7 +7,7 @@
 ---
 
  <p id="sobre">
-👾 A Next Level Week é um evento online gratuito promovido pela Rocketsat, em que durante 5 dias desenvolvemos uma aplicação completa. Na trilha OmniStack, criamos uma aplicação web e mobile em que lares adotivos, podem cadastrar seus endereços e informações para as pessoas visitarem.
+A Next Level Week é um evento online gratuito promovido pela Rocketsat, em que durante 5 dias desenvolvemos uma aplicação completa. Na trilha OmniStack, criamos uma aplicação web e mobile em que lares adotivos, podem cadastrar seus endereços e informações para as pessoas visitarem.
 </p>
 
 
