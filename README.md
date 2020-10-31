@@ -140,7 +140,7 @@ execute o comando yarn start ou npm start e escaneie o QR CODE com o <a href="ht
 
 Pronto você executou corretamente.
 
-### 🛠 Tecnologias
+### 🛠 Tecnologias <a id='tecnologias'></a>
 
 - **Web**
   - [React](https://reactjs.org/)
