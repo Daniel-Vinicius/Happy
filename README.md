@@ -24,6 +24,10 @@ A Next Level Week é um evento online gratuito promovido pela Rocketsat, em que 
 - [x] Acessar horários e dias de funcionamento 📅
 - [x] Cadastar um Orfanato ➕
 
+Features Adicionais que não existem no projeto original
+- [x] Animação na Landing utilizando o Framer Motion
+- [x] Rota para exclusão de orfanatos
+
 ---
 
 <h4> 
