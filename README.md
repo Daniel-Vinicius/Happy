@@ -1,11 +1,21 @@
-<h2>  <img alt="Imagem do Projeto" id="imagem" title="#Projeto" src="https://github.com/Daniel-Vinicius/Happy/blob/main/.github/Imagem.png" />  </h2>
-<h1> Happy </h1>
- <p id="sobre" align="center">
+<p align="center">
+      <img id="imagem" title="#Projeto" src="https://github.com/Daniel-Vinicius/Happy/blob/main/.github/Imagem.png" width="10%" alt="Happy Logo"/>
+</p>
+
+<h1 align="center">Next Level Week, terceira edição, projeto "Happy". 🥳</h1>
+
+---
+
+ <p id="sobre">
 👾 A Next Level Week é um evento online gratuito promovido pela Rocketsat, em que durante 5 dias desenvolvemos uma aplicação completa. Na trilha OmniStack, criamos uma aplicação web e mobile em que lares adotivos, podem cadastrar seus endereços e informações para as pessoas visitarem.
+</p>
+
 
 ![](https://img.shields.io/badge/license-MIT-green)
 ![](https://img.shields.io/badge/languege-Portuguese-yellow)
 ![GitHub Repo stars](https://img.shields.io/github/stars/Daniel-Vinicius/Happy?style=social)
+
+---
 
 ### Features 
 - [x] Ver direções via Google Maps 🗺
@@ -13,12 +23,13 @@
 - [x] Entre em contato pelo Whatsapp 📞
 - [x] Acessar horários e dias de funcionamento 📅
 - [x] Cadastar um Orfanato ➕
+
 ---
 
 <h4> 
 	Happy 1.0 concluido ✔
 </h4>
----
+
 
 <!--ts-->
 * [Sobre](#sobre) 
@@ -124,6 +135,23 @@ execute o comando yarn start ou npm start e escaneie o QR CODE com o <a href="ht
 
 
 Pronto você executou corretamente.
+
+### 🛠 Tecnologias
+
+- **Web**
+  - [React](https://reactjs.org/)
+  - [Typescript](https://www.typescriptlang.org/)
+  - [Leaflet](https://leafletjs.com/)
+  - [React Leaflet](https://react-leaflet.js.org/)
+  - [Open Street Map](https://www.openstreetmap.org/) ou [Mapbox](https://www.mapbox.com/)
+  - [Framer Motion](https://www.framer.com/motion/)
+
+- **Backend**
+  - [Nodejs](https://nodejs.org/en/)
+  - [Express](https://expressjs.com/) 
+  - [Typeorm](https://typeorm.io/)
+  - [Multer](https://github.com/expressjs/multer)
+  - [Yup](https://github.com/jquense/yup)
 
 ### 👨‍💻 Contribuidores <a id="contribuidores"> </a>
 
@@ -244,3 +272,14 @@ width="100px;"  alt="Nome do contribuidor"/>
 </tr>
 
 </table>
+
+---
+
+### 👨‍💻Autor <a id="autor"> </a>
+
+<a href="https://github.com/Daniel-Vinicius" style="text-decoration: none;">
+<img style="border-radius: 70%;" src="https://avatars0.githubusercontent.com/u/66279500?s=460&u=03d962bd1fda436ca49d4bbfbf2f30bdd566221d&v=4" width="100px;"  alt="Seu nome"/>
+
+<br />
+<span> Feito com ❤️ por Daniel Vinícius 👋 Entre em contato! </span> 
+</a> 
