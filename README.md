@@ -155,25 +155,30 @@ Pronto você executou corretamente.
 
   <details>
   <summary>Web</summary>
+	
   - [React](https://reactjs.org/)
   - [Typescript](https://www.typescriptlang.org/)
   - [Leaflet](https://leafletjs.com/)
   - [React Leaflet](https://react-leaflet.js.org/)
   - [Open Street Map](https://www.openstreetmap.org/) ou [Mapbox](https://www.mapbox.com/)
   - [Framer Motion](https://www.framer.com/motion/)
+  
   </details>
 
   <details>
   <summary>Backend</summary>
+	
   - [Nodejs](https://nodejs.org/en/)
   - [Express](https://expressjs.com/) 
   - [Typeorm](https://typeorm.io/)
   - [Multer](https://github.com/expressjs/multer)
   - [Yup](https://github.com/jquense/yup)
+  
   </details>
   
   <details>
   <summary>Mobile</summary>
+	
 -   [React Native](https://reactnative.dev/)
 -   [Expo](https://expo.io/learn)
 -   [@expo/vector-icons](https://docs.expo.io/guides/icons/)
@@ -186,6 +191,7 @@ Pronto você executou corretamente.
 -   [React-native-maps](https://github.com/expo/react-native-appearance)
 -   [Prettier](https://prettier.io/)
 -   [VS Code](https://code.visualstudio.com/)
+
 </details>
 
 
