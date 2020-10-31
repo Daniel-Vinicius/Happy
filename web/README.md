@@ -1,4 +1,4 @@
-# Web
+# Web 1.0
 
 Comandos utilizados para criar o projeto em typescript:
 
