@@ -146,8 +146,17 @@ Configure para ficar com a configuração igual ao da foto
 ```
 
 No projeto mobile com o servidor em execução,
-execute o comando yarn start e escaneie o QR CODE com o <a href="https://play.google.com/store/apps/details?id=host.exp.exponent&hl=pt_BR">App da Expo </a>, e você verá está tela:
+execute o comando yarn start e escaneie o QR CODE com o <a href="https://play.google.com/store/apps/details?id=host.exp.exponent&hl=pt_BR">App da Expo </a>, e você verá estas telas:
 
+ <p align="center">
+	
+<img alt="Mobile" src="https://github.com/Daniel-Vinicius/Happy/blob/main/.github/1%20(1).png" height="300px"/>								       
+<img alt="Mobile" src="https://github.com/Daniel-Vinicius/Happy/blob/main/.github/1%20(2).png" height="300px" width="140px"/>
+<img alt="Mobile" src="https://github.com/Daniel-Vinicius/Happy/blob/main/.github/1%20(3).png" height="300px" width="140px"/>
+<img alt="Mobile" src="https://github.com/Daniel-Vinicius/Happy/blob/main/.github/1%20(4).png" height="300px" width="140px"/>
+<img alt="Mobile" src="https://github.com/Daniel-Vinicius/Happy/blob/main/.github/1%20(5).png" height="300px" width="140px"/>
+																     
+</p>
 
 Pronto você executou corretamente.
 
